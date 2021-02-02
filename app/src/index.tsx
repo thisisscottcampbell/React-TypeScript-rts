@@ -1,4 +1,4 @@
 import ReactDOM from 'react-dom';
-import EventComponent from '../src/events/EventComponent';
+import RefSearch from '../src/refs/RefSearch';
 
-ReactDOM.render(<EventComponent />, document.querySelector('#root'));
+ReactDOM.render(<RefSearch />, document.querySelector('#root'));
