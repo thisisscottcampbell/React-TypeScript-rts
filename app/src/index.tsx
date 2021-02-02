@@ -1,4 +1,4 @@
 import ReactDOM from 'react-dom';
-import UserSearch from '../src/state/UserSearch';
+import EventComponent from '../src/events/EventComponent';
 
-ReactDOM.render(<UserSearch />, document.querySelector('#root'));
+ReactDOM.render(<EventComponent />, document.querySelector('#root'));
