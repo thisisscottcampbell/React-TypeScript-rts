@@ -1,4 +1,4 @@
 import ReactDOM from 'react-dom';
-import GuestList from '../src/state/GuestList';
+import UserSearch from '../src/state/UserSearch';
 
-ReactDOM.render(<GuestList />, document.querySelector('#root'));
+ReactDOM.render(<UserSearch />, document.querySelector('#root'));
